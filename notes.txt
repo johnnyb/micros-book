@@ -3,4 +3,4 @@ Check quotes `` '' " \textquotesingle ?? \textquotedbl ??? and UTF-8 equivalents
 Put in resources everywhere
 Point people to website for more information
 Put in "note" typesetting
-Put in "Other Microsecessions" chapter
+Put in "Other Microsecessions" chapter - Energy (electricity and gasoline), politics, entertainment, news
