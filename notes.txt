@@ -5,3 +5,5 @@ Point people to website for more information
 Put in "note" typesetting
 Put in "Other Microsecessions" chapter - Energy (electricity and gasoline), politics, entertainment, news
 Make sure bible references are uniform
+Check "nomorechanges" docs for strikethroughs that may not have been handled appropriately
+Fill in all FIXMEs
