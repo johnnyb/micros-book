@@ -7,3 +7,4 @@ Put in "Other Microsecessions" chapter - Energy (electricity and gasoline), poli
 Make sure bible references are uniform
 Check "nomorechanges" docs for strikethroughs that may not have been handled appropriately
 Fill in all FIXMEs
+On "nature" principle, mention that being with nature gets us closer to God's handiwork and nature
