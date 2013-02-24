@@ -1,6 +1,5 @@
 \documentclass{book}
 \usepackage[top=0.5in,left=0.5in,right=0.5in,bottom=1in,paperwidth=6in,paperheight=9in]{geometry}
-%% also look at 7.5/9.25
 
 % This file was converted to LaTeX by Writer2LaTeX ver. 1.0.2
 % see http://writer2latex.sourceforge.net for more info
@@ -34,6 +33,25 @@
 \hypersetup{colorlinks=false}
 \titlespacing{\section}{0pt}{10pt}{0pt}
 \titlespacing{\chapter}{0pt}{0pt}{0pt}
+\newenvironment{policynote}[1][]{%
+	\begin{mdframed}[%
+		backgroundcolor=gray!10,
+		frametitle={#1},
+		frametitleaboveskip=0pt,
+		frametitlebelowskip=10pt,
+		innertopmargin=20pt,
+		innerbottommargin=10pt,
+		shadow=false,
+		shadowsize=2pt,
+		skipabove=\baselineskip,
+		skipbelow=\baselineskip,
+		linewidth=0.5pt,
+		frametitlerule=true,
+		frametitlebackgroundcolor=gray!30
+	]%
+}{%
+	\end{mdframed}
+}
 \newenvironment{infonote}[1][]{%
 	\begin{mdframed}[%
 		backgroundcolor=gray!10,
