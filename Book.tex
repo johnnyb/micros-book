@@ -4,6 +4,8 @@
 % This file was converted to LaTeX by Writer2LaTeX ver. 1.0.2
 % see http://writer2latex.sourceforge.net for more info
 \usepackage[utf8]{inputenc}
+\usepackage[misc]{ifsym}
+\usepackage{dingbat}
 \usepackage[T1]{fontenc}
 \usepackage{mdframed}
 \usepackage{titlesec}
@@ -36,7 +38,7 @@
 \newenvironment{policynote}[1][]{%
 	\begin{mdframed}[%
 		backgroundcolor=gray!10,
-		frametitle={#1},
+		frametitle={\raisebox{-2pt}{\PaperPortrait} \hskip 10pt Policy Note: #1},
 		frametitleaboveskip=0pt,
 		frametitlebelowskip=10pt,
 		innertopmargin=20pt,
@@ -55,7 +57,7 @@
 \newenvironment{infonote}[1][]{%
 	\begin{mdframed}[%
 		backgroundcolor=gray!10,
-		frametitle={#1},
+		frametitle={\leftpointright \hskip 10pt #1},
 		frametitleaboveskip=0pt,
 		frametitlebelowskip=10pt,
 		innertopmargin=20pt,
