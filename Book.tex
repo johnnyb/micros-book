@@ -3,7 +3,12 @@
 
 % This file was converted to LaTeX by Writer2LaTeX ver. 1.0.2
 % see http://writer2latex.sourceforge.net for more info
+\usepackage{graphicx}
 \usepackage[utf8]{inputenc}
+\usepackage[scaled]{helvet}
+\usepackage{avant}
+\usepackage{tocloft}
+\usepackage{needspace}
 \usepackage[misc]{ifsym}
 \usepackage{dingbat}
 \usepackage[T1]{fontenc}
@@ -35,7 +40,9 @@
 \hypersetup{colorlinks=false}
 \titlespacing{\section}{0pt}{10pt}{0pt}
 \titlespacing{\chapter}{0pt}{0pt}{0pt}
+
 \newenvironment{policynote}[1][]{%
+	\Needspace{10\baselineskip}
 	\begin{mdframed}[%
 		backgroundcolor=gray!10,
 		frametitle={\raisebox{-2pt}{\PaperPortrait} \hskip 10pt Policy Note: #1},
@@ -55,6 +62,7 @@
 	\end{mdframed}
 }
 \newenvironment{infonote}[1][]{%
+	\Needspace{10\baselineskip}
 	\begin{mdframed}[%
 		backgroundcolor=gray!10,
 		frametitle={\leftpointright \hskip 10pt #1},
@@ -76,13 +84,14 @@
 \makeatother
 
 %% \renewcommand{\familydefault}{bch}
+%% \renewcommand{\familydefault}{\sfdefault}
+\renewcommand{\familydefault}{ppl}
 
-%% \renewcommand{\familydefault}{ppl}
-
-\title{MicroSecession}
 \begin{document}
 
 \frontmatter
+
+\input{TitlePages}
 
 
 \tableofcontents
