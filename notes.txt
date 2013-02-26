@@ -1,8 +1,6 @@
 Check dashes - -- --- and the UTF-8 equivalents
-Check quotes `` '' " \textquotesingle ?? \textquotedbl ??? and UTF-8 equivalents
 Put in resources everywhere
 Point people to website for more information
-Put in "note" typesetting
 Put in "Other Microsecessions" chapter - Energy (electricity and gasoline), politics, entertainment, news
 Make sure bible references are uniform
 Check "nomorechanges" docs for strikethroughs that may not have been handled appropriately
@@ -11,5 +9,9 @@ On "nature" principle, mention that being with nature gets us closer to God's ha
 What about protecting silver in your home?
 A good finally?
 Spiritualize each of the principles?
-Add icons to infonote and policynote?
 getrichslowly.org
+
+DONE:
+Put in "note" typesetting
+Check quotes `` '' " \textquotesingle ?? \textquotedbl ??? and UTF-8 equivalents  --- UTF-8's typeset correctly
+Add icons to infonote and policynote?
