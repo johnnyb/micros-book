@@ -10,4 +10,4 @@ perl -p0i -e 's!\{\\selectlanguage\{english\}\\mdseries\\upshape\\color\{black\}
 perl -p0i -e 's!\\bigskip\n!!gs' $1
 perl -p0i -e 's!\\section\[.*?\]\{(.*?)\}!\\section{$1}!gs' $1
 perl -p0i -e 's!\\clearpage\\setcounter\{page\}\{1\}\\pagestyle\{Standard\}\n\{\\centering\\selectlanguage\{english\}\\bfseries\\color\{black\}\n(.*?)\n\\par\}!\\chapter{$1}!gs' $1
-
+perl -pi -e "s/\{\\\\textquotesingle\}/'/gs" *.tex
