@@ -1,10 +1,13 @@
+Need book on eating wild foods
+Target Education chapter on specific proposition or problem?
+
+As for what specific problem this addresses, the idea is that, first of all, we are over-dependent on other people doing the educating, when it is not at all necessary.  In addition, the modern system simply isn't working well, nor does there seem to be a within-system solution.  Therefore, we should consider stepping outside and looking for a system for ourselves.
+
 Check dashes - -- --- and the UTF-8 equivalents
-Put in resources everywhere
 Point people to website for more information
 Put in "Other Microsecessions" chapter - Energy (electricity and gasoline), politics, entertainment, news
 Make sure bible references are uniform
 Check "nomorechanges" docs for strikethroughs that may not have been handled appropriately
-Fill in all FIXMEs
 On "nature" principle, mention that being with nature gets us closer to God's handiwork and nature
 What about protecting silver in your home?
 A good finally?
@@ -12,13 +15,31 @@ Spiritualize each of the principles?
 getrichslowly.org
 Mention knitting
 Two Income Trap book -- mention that part of the problem is that the vaule of the money is going down
-End of the Road movie
 When Money Dies book?
-Policy note on commodity based currency
+
+
+
+Despair does not lie in being weary of suffering, but in being weary of
+joy. It is when for some reason or other the good things in a society no
+longer work that the society begins to decline; when its food does not
+feed, when its cures do not cure, when its blessings refuse to bless. We
+might almost say that in a society without such good things we should
+hardly have any test by which to register a decline; that is why some of
+the static commercial oligarchies like Carthage have rather an air in
+history of standing and staring like mummies, so dried up and swathed
+and embalmed that no man knows when they are new or old. 
+-- Chesterton, Everlasting Man
+
+
+PUT IN BLOG
 Note - when buying gold/silver, pay cash and don't leave an address
 
 
 DONE:
+Put in resources everywhere
+Fill in all FIXMEs
+Policy note on commodity based currency
+End of the Road movie
 Put in "note" typesetting
 Check quotes `` '' " \textquotesingle ?? \textquotedbl ??? and UTF-8 equivalents  --- UTF-8's typeset correctly
 Add icons to infonote and policynote?
